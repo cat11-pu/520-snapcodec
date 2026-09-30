@@ -1,0 +1,6 @@
+id = a1b2c3d4
+name = web
+pair = theme\tdark
+pair = __sess_last_updated\t2026-09-29T08:15:04Z
+pair = cart\t3 items\n- x
+torn = SQLSESS/2\nid:a1b2c3d\nname:web\nupd:x\nn:5\nk:b\t1\nk:a\t2\nk:a\t3\nk:z\t1\\\n
